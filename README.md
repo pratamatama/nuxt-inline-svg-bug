@@ -1,5 +1,14 @@
 # nuxt-inline-svg-bug-firefox
 
+I can't give the entire project structure as the project are supposed to be private,
+so I made a minimalist reproduction, a copy of a navbar from the original project
+which loads the SVG component to show the error.
+
+The configuration is made exactly the same as the original one.
+Please have a look.
+
+Thanks in advance!
+
 ## Build Setup
 
 ```bash
