@@ -1,0 +1,12 @@
+@import './fonts.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  @variants responsive {
+    .mirror {
+      transform: scale(-1);
+    }
+  }
+}
